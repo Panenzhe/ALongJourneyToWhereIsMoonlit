@@ -1,1 +1,0 @@
-出错的事件列表为：#<RPG::EventCommand:0x1c131388>#<RPG::EventCommand:0x1c131280>
