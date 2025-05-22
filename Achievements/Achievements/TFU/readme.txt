@@ -1,1 +1,0 @@
-将TFU.rxdata放到Achievements文件夹中，下一局游戏开局会给一个藏品。（最后的我们的效果）
